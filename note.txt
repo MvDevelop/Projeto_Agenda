@@ -1,0 +1,7 @@
+
+Script atual do terminal= node server.js
+
+password: 123654
+
+mongodb+srv://marcosvmdilly:<db_password>@cluster0.qpxnscp.
+mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
